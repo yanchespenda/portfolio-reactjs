@@ -1,0 +1,16 @@
+{
+  "name": "Alfian's Portofolio",
+  "short_name": "Portofolio",
+  "description": "Alfian's Portofolio polymer version",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#2196F3",
+  "background_color": "#2196F3",
+  "icons": [
+    {
+      "src": "aset/manifest/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
