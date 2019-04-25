@@ -1,6 +1,6 @@
 # \<Portofolio\>
 
-Web Profile
+Web Portfolio
 
 ## Install the Polymer-CLI
 
