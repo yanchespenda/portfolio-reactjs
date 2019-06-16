@@ -18,7 +18,7 @@ class Alfian02App extends LitElement {
   constructor(){
     super();
     this.title='Hello, I\'m Alfian Rikzandi';
-	this.sub_title='I\'m a student at the University of Pamulang and Junior Web Developer.';
+	this.sub_title='I\'m a student at the University of Pamulang and Web Developer.';
   }
 
   render(){
@@ -276,7 +276,41 @@ a {
 						<span class="card-title">MongoDB Query Builder for Codeigniter</span>
 					</div>
 					<div class="card-action">
-						<a href="//mongodb.projectf.cf/">View</a>
+						<a href="//mongodb.projectf.cf/">Github</a>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="row">  
+            <div class="subhead-title-container">
+					<h1 class="text">
+						IoT
+					</h1>
+				</div>
+			<div class="col s12 m6">
+				<div class="card md-shadow">
+					<div class="card-image">
+						<img style="background-image: url(aset/image/iot-01.png); background-size: cover; background-position: center center; background-repeat: no-repeat; " />
+					</div>
+					<div class="card-content">
+						<span class="card-title">Monitoring Cuaca</span>
+						<p>
+							Arduino used: NodeMCU, DHT11, Rain Sensor.
+						</p>
+						<p>
+							FrontEnd used: Webpack, AngularJs, AngularJs Material, ChartJS
+						</p>
+						<p>
+							BackEnd used: Laravel
+						</p>
+						<p>
+							Demo Web: <a href="https://arduino.arproject.web.id/">Here</a>
+						</p>
+					</div>
+					<div class="card-action">
+						<a href="https://github.com/yanchespenda/ta-proposal-penelitian-frontend">Front-End</a>
+						<a href="https://github.com/yanchespenda/ta-proposal-penelitian-backend">Back-End</a>
+						<a href="https://github.com/yanchespenda/ta-proposal-penelitian-arduino">Arduino</a>
 					</div>
 				</div>
 			</div>
@@ -326,6 +360,19 @@ a {
 					</div>
 				</div>
 			</div>
+            <div class="col s12 m6">
+				<div class="card md-shadow">
+					<div class="card-image">
+						<img style="background-image: url(aset/image/app-web-04.jpg); background-size: cover; background-position: center center; background-repeat: no-repeat; " />
+					</div>
+					<div class="card-content">
+						<span class="card-title">Company Profile</span>
+					</div>
+					<div class="card-action">
+						<a href="//goldenisoconsulting.com/">View</a>
+					</div>
+				</div>
+			</div>
 		</div>
         <div class="row">
             <div class="subhead-title-container">
@@ -353,12 +400,31 @@ a {
 					</div>
 				</div>
 			</div>
+			<div class="col s12 m6">
+				<div class="card md-shadow">
+					<div class="card-image">
+						<img style="background-image: url(aset/image/under-03.png); background-size: cover; background-position: center center; background-repeat: no-repeat; " />
+					</div>
+					<div class="card-content">
+						<span class="card-title">Login Template (Google Style)</span>
+						<p>
+							Login Used: Angular 7, Angular Material, Rxjs.
+						</p>
+						<p>
+							Demo Web: <a href="https://account.arproject.web.id/">Here</a>
+						</p>
+					</div>
+					<div class="card-action">
+						<a href="https://github.com/yanchespenda/project-account">Github</a>
+					</div>
+				</div>
+			</div>
 		</div>
     </div>
 	  <footer>
 		<div class="f-container container">
 				<div class="f-container-text">
-					Made with love with Polymer 3.0 • Created by <a target="_blank" href="https://fb.me/akagenomea">Alfian Rikzandi</a> | My <a target="_blank" href="https://github.com/yanchespenda">Github</a>.
+					Made in love with Polymer 3.0 • Created by <a target="_blank" href="https://fb.me/akagenomea">Alfian Rikzandi</a> | My <a target="_blank" href="https://github.com/yanchespenda">Github</a>.
 				</div>
 			</div>
 	  </footer>
