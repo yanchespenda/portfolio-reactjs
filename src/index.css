@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+  font-family: 'Roboto', 'Noto', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background: #212121;
+  color: rgb(250,250,250)
+}
