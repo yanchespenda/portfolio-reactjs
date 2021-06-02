@@ -200,9 +200,11 @@ function App() {
                     Streaming Site (Community)
                     </Typography>
                     <Typography variant="body2" component="p">
-                      FrontEnd: ReactJs, Material UI (Current)<br />
-                      FroneEnd: AngularJs, AngularJs Material (Old)<br />
-                      BackEnd: Laravel 8 with MySQL
+                      FrontEnd:<br />
+                      ReactJs, Material UI (Main Current)<br />
+                      AngularJs, AngularJs Material (Main/Administrator Old)<br />
+                      Angular 12, Angular Material 12 (Administrator)<br />
+                      BackEnd: Laravel 8 with MySQL - Cache Memcache
                     </Typography>
                   </CardContent>
                   <Divider />
