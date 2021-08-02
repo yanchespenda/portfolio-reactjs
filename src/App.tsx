@@ -201,7 +201,8 @@ function App() {
                     </Typography>
                     <Typography variant="body2" component="p">
                       FrontEnd:<br />
-                      ReactJs, Material UI (Main Current)<br />
+                      ReactJs, Material UI (Pony)<br />
+                      ReactJs, Tailwind (Anime)<br />
                       AngularJs, AngularJs Material (Main/Administrator Old)<br />
                       Angular 12, Angular Material 12 (Administrator)<br />
                       BackEnd: Laravel 8 with MySQL - Cache Memcache
@@ -209,7 +210,7 @@ function App() {
                   </CardContent>
                   <Divider />
                   <CardActions>
-                    <Button variant="contained" color="primary" rel="noopener noreferrer" target="_blank" href="https://mypony.asia/">
+                    <Button variant="contained" color="primary" rel="noopener noreferrer" target="_blank" href="https://myponyasia.com/">
                       Visit
                     </Button>
                   </CardActions>
