@@ -53,6 +53,30 @@ function App() {
                 </Card>
               </Grid>
 
+              {/* React Siema Library */}
+              <Grid item sm={6} xs={12}>
+                <Card>
+                  <CardActionArea>
+                    <CardMedia
+                      className={classes.media}
+                      image="https://res.cloudinary.com/dslncjjz1/image/upload/s--ds9ZpApZ--/c_scale,h_364/v1632371350/cdn/portfolio/Screenshot_378.jpg"
+                      title="Library 2"
+                    />
+                  </CardActionArea>
+                  <CardContent>
+                    <Typography gutterBottom variant="h5" component="h2">
+                      React Siema Library
+                    </Typography>
+                  </CardContent>
+                  <Divider />
+                  <CardActions>
+                    <Button variant="contained" color="primary" rel="noopener noreferrer" target="_blank" href="https://github.com/yanchespenda/react-siema/">
+                      Documentation
+                    </Button>
+                  </CardActions>
+                </Card>
+              </Grid>
+
             </Grid>
           </Container>
         </Grid>
@@ -212,6 +236,33 @@ function App() {
                   <CardActions>
                     <Button variant="contained" color="primary" rel="noopener noreferrer" target="_blank" href="https://myponyasia.com/">
                       Visit
+                    </Button>
+                  </CardActions>
+                </Card>
+              </Grid>
+
+              {/* Portofolio Graphic Design */}
+              <Grid item sm={6} xs={12}>
+                <Card>
+                  <CardActionArea>
+                    <CardMedia
+                      className={classes.media}
+                      image="https://res.cloudinary.com/dslncjjz1/image/upload/s--baMasDyn--/c_scale,h_400/v1632371528/cdn/portfolio/Screenshot_374.jpg"
+                      title="Web Apps 5"
+                    />
+                  </CardActionArea>
+                  <CardContent>
+                    <Typography gutterBottom variant="h5" component="h2">
+                    Portofolio for Graphic Design
+                    </Typography>
+                    <Typography variant="body2" component="p">
+                      NextJS - Tailindcss - Firebase<br />
+                    </Typography>
+                  </CardContent>
+                  <Divider />
+                  <CardActions>
+                    <Button variant="contained" color="primary" rel="noopener noreferrer" target="_blank" href="https://github.com/yanchespenda/portofolio-graphic-design">
+                    Github
                     </Button>
                   </CardActions>
                 </Card>
